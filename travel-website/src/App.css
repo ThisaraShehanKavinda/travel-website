@@ -52,7 +52,7 @@ h1, h2, h3 {
 
 /* Hero Section */
 .hero {
-  background: url('/images/hero-bg.jpg') no-repeat center center/cover; /* Image background */
+ /* background: url('/images/hero-bg.jpg') no-repeat center center/cover; /* Image background */
   height: 100vh;
   display: flex;
   justify-content: center;
