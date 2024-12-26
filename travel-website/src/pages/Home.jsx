@@ -1,9 +1,9 @@
 import React from 'react';
-import Contact from './Contact';
-import Hero from './Hero';
+import Contact from '../components/Contact';
+import Hero from '../components/Hero';
+import Packages from '../components/Packages';
+import Testimonials from '../components/Testimonials';
 import './Home.css';
-import Packages from './Packages';
-import Testimonials from './Testimonials';
 
 const Home = () => {
   return (
