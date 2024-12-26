@@ -1,0 +1,55 @@
+/* Home Container Styling */
+.home-container {
+    background-color: #f7fafc; /* Light background color */
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Section Title Styling */
+  .section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #2d3748;
+    text-align: center;
+    margin: 3rem 0 2rem 0;
+  }
+  
+  /* Featured Packages Container Styling */
+  .featured-packages-container {
+    padding: 4rem 2rem;
+    background-color: #fff;
+    margin-bottom: 4rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Testimonials Container Styling */
+  .testimonials-container {
+    padding: 4rem 2rem;
+    background-color: #f7fafc;
+    margin-bottom: 4rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Contact Container Styling */
+  .contact-container {
+    padding: 4rem 2rem;
+    background-color: #fff;
+    margin-bottom: 4rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .section-title {
+      font-size: 1.5rem;
+    }
+  
+    .featured-packages-container,
+    .testimonials-container,
+    .contact-container {
+      padding: 2rem 1rem;
+    }
+  }
+  
